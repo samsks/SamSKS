@@ -2,7 +2,7 @@
 <small>Olá! Eu sou Samuel Vieira. Bem vindo ao meu GitHub!!!</small>
 </br>
 </br>
-
+</br>
 
 ## About Me:
 <small>Sobre mim:</small>
