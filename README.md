@@ -6,9 +6,9 @@
 ## About Me:
 <small>Sobre mim:</small>
 <br/>
-- 🔭 I’m currently working on @KenzieAcademyBrasil | Fullstack Monitor
-- 🌱 I’m currently learning Nextjs
-- 💬 Ask me about JavaScript or React
+> 🔭 I’m currently working on @KenzieAcademyBrasil | Fullstack Monitor
+> 🌱 I’m currently learning Nextjs
+> 💬 Ask me about JavaScript or React
 
 
 
