@@ -3,7 +3,18 @@
 </br>
 </br>
 
+## My stats
+<small>Minhas estatísticas</small>
+
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact&langs_count=8" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub" alt="GitHub">
+</div>
+</br>
+</br>
+
 ## Best technologies
+<small>Melhores tecnologias</small>
 
 <div style="display: flex, gap: 35px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
@@ -12,37 +23,13 @@
 </div>
 </br>
 </br>
+
+
+
+
+
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
  -->
-
-## My stats
-<small>Minhas estatísticas</small>
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact)](https://github.com/samsks/github-readme-stats)
-
-
-![GitHub](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true) -->
-
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact&langs_count=8" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub" alt="GitHub">
-</div>
-
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
-</br>
-</br>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamSKS&repo=typeORM_trainningV2)](https://github.com/samsks/typeORM_trainningV2) -->
 
 
 
