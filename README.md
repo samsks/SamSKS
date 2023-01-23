@@ -41,7 +41,7 @@
 </br>
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px">
     
-          <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
           
    
 <!--     <img alt="css" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
