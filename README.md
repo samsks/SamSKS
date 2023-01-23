@@ -1,9 +1,9 @@
-## Hi! I'm Samuel Vieira ✌️. Welcome to my GitHub!!!
+# Hi! I'm Samuel Vieira ✌️. Welcome to my GitHub!!!
 <small>Olá! Eu sou Samuel Vieira. Bem vindo ao meu GitHub!!!</small>
 </br>
 </br>
 
-### Best technologies
+## Best technologies
 
 <div style="display: flex, gap: 35px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
@@ -15,7 +15,7 @@
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
  -->
 
-### My stats
+## My stats
 <small>Minha estatística</small>
 
 <!-- <div style="display: flex, flex-direction: row"> -->
@@ -30,7 +30,7 @@
 
 
 
-### Developing with the following technologies:
+## Developing with the following technologies:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px">
     <img alt="html5" align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,7 +52,7 @@
     
 </div><br>
 
-### Learning:
+## Learning:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px">
     <img alt="tailwind_css" align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
