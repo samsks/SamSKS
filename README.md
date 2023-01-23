@@ -1,4 +1,4 @@
-### Hi! I'm Samuel Vieira ✌️
+## Hi! I'm Samuel Vieira ✌️
 
 
 
@@ -6,7 +6,7 @@
 ### Best technologies
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
 </div>
