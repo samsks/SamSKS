@@ -18,7 +18,7 @@
 ### My stats
 <small>Minha estatística</small>
 
-<div style="display: flex, flex-direction: row,">
+<div style="display: flex, flex-direction: row">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact)](https://github.com/samsks/SamSKS)
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&theme=algolia)
