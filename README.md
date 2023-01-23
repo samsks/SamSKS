@@ -17,7 +17,7 @@
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
  -->
 
-###My stats
+### My stats
 <small>Minha estatística</small>
 ![Samuel Vieira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamSKS&theme=blue-green)
 ![Samuel Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&theme=dracula)
