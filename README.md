@@ -26,7 +26,7 @@
 ![GitHub](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true) -->
 
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact&langs_count=8" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub" alt="GitHub">
 </div>
 
