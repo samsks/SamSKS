@@ -18,18 +18,24 @@
 ## My stats
 <small>Minhas estatísticas</small>
 
-<!-- <div style="display: flex, flex-direction: row"> -->
-<div style="align: center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact)](https://github.com/samsks/github-readme-stats)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact)](https://github.com/samsks/github-readme-stats)
+
+
+![GitHub](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true) -->
+
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true" alt="GitHub">
 </div>
-<div style="align: center">
-![GitHub](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true)
-</div>
-<!-- </div> -->
+
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
