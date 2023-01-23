@@ -23,7 +23,8 @@
 </br>
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsks&repo=test)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/samsks/typeORM_trainningV2))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsks&repo=repo-test)](https://github.com/samsks/typeORM_trainningV2)
+
 
 
 ### Developing with the following technologies:
