@@ -1,5 +1,6 @@
-## Hi! I'm Samuel Vieira ✌️
-<small>Olá! Eu sou Samuel Vieira </small>
+## Hi! I'm Samuel Vieira ✌️. Welcome to my GitHub!!!
+<small>Olá! Eu sou Samuel Vieira. Bem vindo ao meu GitHub!!!</small>
+</br>
 </br>
 
 ### Best technologies
@@ -10,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
 </div>
 </br>
-
+</br>
 
 
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
