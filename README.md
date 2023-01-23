@@ -11,9 +11,8 @@
 > 🌱 I’m currently learning Nextjs
 
 > 💬 Ask me about JavaScript or React
-
-
-
+</br>
+</br>
 
 ## Best technologies
 <small>Melhores tecnologias</small>
