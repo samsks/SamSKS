@@ -12,8 +12,6 @@
 </div>
 </br>
 </br>
-
-
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
  -->
 
@@ -24,6 +22,9 @@
 ![Samuel Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&theme=algolia)
 </br>
 </br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsks&repo=test)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/samsks/typeORM_trainningV2))
+
 
 ### Developing with the following technologies:
 
