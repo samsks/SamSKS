@@ -23,7 +23,7 @@
 </br>
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsks&repo=repo-test)](https://github.com/samsks/typeORM_trainningV2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamSKS&repo=typeORM_trainningV2)](https://github.com/samsks/typeORM_trainningV2)
 
 
 
