@@ -1,5 +1,18 @@
 ### Hi! I'm Samuel Vieira ✌️
 
+
+
+
+### Best technologies
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
 
 <!-- ![Samuel Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&theme=dracula)-->
