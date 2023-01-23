@@ -39,16 +39,12 @@
 ## Developing with the following technologies:
 <small>Desenvolvendo com as seguintes tecnologias:</small>
 </br>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 30px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" align="center" width="45"/>
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" align="center" width="45"/>
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" align="center" width="45"/>
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" align="center" width="45"/>
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescrypt" align="center" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" align="center" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" align="center" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" align="center" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescrypt" align="center" width="45"/>
           
     
           
