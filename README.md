@@ -36,20 +36,10 @@
 </br>
 </br>
 
-
-
-
-
-
-
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
- -->
-
-
-
 ## Developing with the following technologies:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px">
+<small>Desenvolvendo com as seguintes tecnologias:</small>
+</br>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px">
     <img alt="html5" align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="css" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="javascript" align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -80,3 +70,7 @@
     <img alt="redux" align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img alt="heroku" align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
+
+
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/sammvieira)
+ -->
