@@ -27,7 +27,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true" alt="GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub">
 </div>
 
 
