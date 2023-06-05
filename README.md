@@ -10,7 +10,7 @@
 
 > 🌱 I’m currently learning Python and Django
 
-> 💬 Ask me about JavaScript or React
+> 💬 Ask me about JavaScript, Python, Node or React.
 </br>
 
 ## Best technologies
