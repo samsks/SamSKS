@@ -27,8 +27,8 @@
 <small>Minhas estatísticas</small>
 </br>
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&show_icons=true&layout=donut-vertical&theme=transparent&langs_count=10&custom_title=Linguagens mais utilizadas" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api?username=samsks&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github stats" alt="GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&show_icons=true&layout=donut-vertical&theme=transparent&langs_count=10&custom_title='Linguagens mais utilizadas'" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=samsks&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&custom_title='Github stats'" alt="GitHub">
 </div>
 </br>
 
