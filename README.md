@@ -27,7 +27,7 @@
 <small>Minhas estatísticas</small>
 </br>
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&layout=compact&show_icons=true&langs_count=20" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsks&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api?username=SamSKS&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub" alt="GitHub">
 </div>
 </br>
