@@ -8,7 +8,7 @@
 <br/>
 > 🔭 I’m currently working on @KenzieAcademyBrasil | Fullstack Monitor
 
-> 🌱 I’m currently learning Python and Django
+> 🌱 I’m currently learning Java
 
 > 💬 Ask me about JavaScript, Python, JAVA, Node or React.
 </br>
