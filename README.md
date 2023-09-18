@@ -10,7 +10,7 @@
 
 > 🌱 I’m currently learning Java
 
-> 💬 Ask me about JavaScript, Python, JAVA, Node or React.
+> 💬 Ask me about JavaScript, Python, Node or React.
 </br>
 
 ## Best technologies
