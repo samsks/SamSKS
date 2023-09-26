@@ -1,17 +1,43 @@
-# Hi! I'm Samuel Vieira ✌️. Welcome to my GitHub!!!
-<small>Olá! Eu sou Samuel Vieira. Bem vindo ao meu GitHub!!!</small>
-</br>
-</br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## About Me:
-<small>Sobre mim:</small>
-<br/>
-> 🔭 I’m currently working on @KenzieAcademyBrasil | Fullstack Monitor
+## 💜 Olá, meu nome é <strong>Samuel!</strong>
 
-> 🌱 I’m currently learning Java
+> Desenvolvedor Full Stack. Futuro Dev Full Cycle!
 
-> 💬 Ask me about JavaScript, Python, Node or React.
-</br>
+💼 Trabalhando como **Monitor de Ensino e Desenvolvimento** na <a href="https://indico.kenzie.com.br/CwS2" target="_blank">Kenzie Academy Brasil</a>
+
+🔭 Estudando **Desenvolvimento de Software e IA** na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.
+
+🌱 Mergulhando mais sobre **IA** e desenvolvimento em **JAVA**.
+
+
+<p align="left">
+    💬 Sinta-se à vontade para entrar em contato comigo para discutir projetos, tecnologias ou compartilhar ideias: ⤵️
+</p>
+
+
+<p align="left">
+  <a href="mailto:devs.sam@outlook.com" alt="email">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=devs.sam@outlook.com" /></a>
+
+  <a href="https://www.linkedin.com/in/sammvieira/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sammvieira/" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=+55+21+981115239&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20portf%C3%B3lio%20na%20internet%2C%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os`" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  
+</p>
+
+---
+
+
+
+
+
+
+
+
+<!--
 
 ## Best technologies
 <small>Melhores tecnologias</small>
