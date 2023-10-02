@@ -2,7 +2,7 @@
 
 ## 💜 Olá, meu nome é <strong>Samuel!</strong>
 
-> Desenvolvedor Full Stack. Futuro Dev Full Cycle!
+> Desenvolvedor Full Stack.
 
 💼 Trabalhando como **Monitor de Ensino e Desenvolvimento** na <a href="https://indico.kenzie.com.br/CwS2" target="_blank">Kenzie Academy Brasil</a>
 
