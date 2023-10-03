@@ -12,7 +12,7 @@
 
 
 <p align="left">
-    💬 Sinta-se à vontade para entrar em contato comigo para discutir projetos, tecnologias ou compartilhar ideias: ⤵️
+    💬 Sinta-se à vontade para entrar em contato comigo para discutir projetos, tecnologias, etc: ⤵️
 </p>
 
 
