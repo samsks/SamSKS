@@ -8,7 +8,7 @@
 
 🔭 Estudando **Desenvolvimento de Software e IA** na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.
 
-🌱 Mergulhando mais sobre **IA** e desenvolvimento em **JAVA**.
+🌱 Mergulhando mais sobre **QA** e desenvolvimento em **JAVA**.
 
 
 <p align="left">
