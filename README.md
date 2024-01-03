@@ -4,7 +4,7 @@
 
 > Desenvolvedor Full Stack.
 
-💼 Trabalhando como **Monitor de Ensino e Desenvolvimento** na <a href="https://indico.kenzie.com.br/CwS2" target="_blank">Kenzie Academy Brasil</a>
+💼 Trabalhando como **Analista de QA** na <a href="https://www.zipdin.com.br" target="_blank">Zipdin</a>
 
 🔭 Estudando **Desenvolvimento de Software e IA** na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.
 
