@@ -6,6 +6,8 @@
 
 💼 Trabalhando como **Analista BI / Desenvolvedor Full Stack** na <a href="https://www.zipdin.com.br" target="_blank">Zipdin</a>
 
+💼 Colaborando como **Desenvolvedor Full Stack** em soluções móveis na <a href="https://atacsistemas.com](https://www.linkedin.com/company/atacsistemas" target="_blank">Atac Sistemas</a>
+
 🔭 Estudando **Arquitetura de Software** na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
 
 🌱 Mergulhando mais sobre **Arquitetura de Dados** e desenvolvimento em **Python**.
