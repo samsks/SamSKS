@@ -2,13 +2,13 @@
 
 ## 💜 Olá, meu nome é <strong>Samuel!</strong>
 
-> Desenvolvedor Full Stack.
+> Desenvolvedor Full Stack / Quality Assurance - CTFL.
 
-💼 Trabalhando como **Analista de QA** na <a href="https://www.zipdin.com.br" target="_blank">Zipdin</a>
+💼 Trabalhando como **Analista BI / Desenvolvedor Full Stack** na <a href="https://www.zipdin.com.br" target="_blank">Zipdin</a>
 
-🔭 Estudando **Desenvolvimento de Software e IA** na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.
+🔭 Estudando **Arquitetura de Software** na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.
 
-🌱 Mergulhando mais sobre **QA** e desenvolvimento em **JAVA**.
+🌱 Mergulhando mais sobre **Arquitetura de Dados** e desenvolvimento em **Python**.
 
 
 <p align="left">
